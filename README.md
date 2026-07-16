@@ -1,16 +1,15 @@
-## Hi there 👋
+## Frontend Developer.
 
-<!--
-**Ahmed6770/Ahmed6770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive and modern web applications using React and JavaScript, with a focus on clean code, 
+reusable components, and user-friendly interfaces.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- REST APIs
+- Git & GitHub
